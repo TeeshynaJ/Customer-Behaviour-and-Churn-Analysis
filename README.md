@@ -1,9 +1,16 @@
 # Customer-Behaviour-and-Churn-Analysis
-Customer Behaviour and Churn Analytics: Predictive Insights and Dashboard Reporting for Strategic Retention
 
-As we know, it is much more expensive to sign in a new client than keeping an existing one.
-It is advantageous for banks to know what leads a client towards the decision to leave the company.
-Churn prevention allows companies to develop loyalty programs and retention campaigns to keep as many customers as possible.
+##Customer Behaviour and Churn Analytics: Predictive Insights and Dashboard Reporting for Strategic Retention
+
+This project focuses on understanding customer churn in the banking sector. Since acquiring new clients is significantly more costly than retaining existing ones, it is essential for banks to identify the factors that influence customers’ decisions to leave. By uncovering these drivers, banks can design effective loyalty programs and retention strategies to minimize churn and improve customer lifetime value.
 
 
 Check out the original dataset on Kaggle: [Customer Churn Dataset](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn)
+
+## Data Cleaning Steps
+
+- Removed duplicates based on `CustomerId`
+- Handled missing values for key columns
+- Standardised categorical data entries
+- Removed outliers in numerical fields
+- Dropped irrelevant columns like `RowNumber` and `Surname`
