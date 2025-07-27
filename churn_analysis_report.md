@@ -75,7 +75,7 @@ The bank experiences an **overall churn rate of 20.38%**, closely mirroring its 
   - **Inclusive support services**
 
 ### 6. Improve Product-Satisfaction Fit
-- Customers with 3–4 products report **lower satisfaction**. This may indicate poor product relevance or product overload due to many or poorly matched features
+- Customers with 3–4 products reported **lower satisfaction**. This may indicate poor product relevance or product overload due to many or poorly matched features.
 - Prioritise **quality over quantity** by focusing on offerings that deliver value such as benefits and perks that customers are likely to use e.g. rewards, fee waivers, exclusive access.
 
 
